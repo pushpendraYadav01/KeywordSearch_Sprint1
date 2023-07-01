@@ -37,12 +37,12 @@ KS03	  "Format of Research paper files
   
 ### Group members
 
-ANKUR RAJARAM HINGMIRE
+#### [Pushpendra Yadav](https://www.linkedin.com/in/pushpendra-yadav-2031971ba/)
 
-PUSHPENDRA  YADAV
+#### [Ankur Rajaram Hingmire](https://www.linkedin.com/in/ankur-h-4a5b69105/)
 
-VEDANT BALASAHEB BAN
+#### [Paramjyothi Sai Yashwanth Reddy](https://www.linkedin.com/in/saiyashwanthreddy18/)
 
-PARAMJYOTHI SAI  YASHWANTH REDDY
+#### [Vedant Balasaheb Ban](https://www.linkedin.com/in/vedant-ban-2b76001b4/)
 
-VENKATESH PRABHAKAR GUNAKE
+#### [Venkatesh Prabhakar Gunake](https://www.linkedin.com/in/venkatesh-gunake-193831178/)
